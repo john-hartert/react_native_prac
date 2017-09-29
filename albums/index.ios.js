@@ -11,8 +11,8 @@ import Header from './src/components/header';
 // Create a component
 const App = () => (
     // JSX
-    <Header />
-    
+    <Header headerText={'Albums'} />
+
   );
 
 
